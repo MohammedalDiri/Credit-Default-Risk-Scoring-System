@@ -12,3 +12,4 @@ Evaluation — Stratified 5-fold cross validation with AUC-ROC
 
 Tech Stack
 Python, Pandas, NumPy, LightGBM, Scikit-learn, Optuna
+Dataset : https://www.kaggle.com/competitions/home-credit-default-risk
